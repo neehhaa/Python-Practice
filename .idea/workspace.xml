@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1f58c47-5d86-4b39-b5a5-f7c7759c5ce6" name="Changes" comment="Even Odd Program">
-      <change afterPath="$PROJECT_DIR$/Day1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9.py" afterDir="false" />
-    </list>
+    <list default="true" id="a1f58c47-5d86-4b39-b5a5-f7c7759c5ce6" name="Changes" comment="Check Prime Number." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +167,105 @@
       <option name="project" value="LOCAL" />
       <updated>1657524072392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hello Python">
+      <created>1657524311490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524311490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Arithmetical Operations">
+      <created>1657524415863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524415863</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Square root">
+      <created>1657524444496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524444496</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Area of a Triangle">
+      <created>1657524475283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524475283</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Quadratic Equations">
+      <created>1657524516306</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524516306</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Swapping Two Numbers.">
+      <created>1657524551173</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524551173</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Random Numbers Generator.">
+      <created>1657524595387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524595387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Kilometer to Miles.">
+      <created>1657524623992</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524623992</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Celsius to Fahrenheit.">
+      <created>1657524663147</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524663147</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Display Calender">
+      <created>1657524686362</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524686362</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Positive, Negative or Zero Number.">
+      <created>1657524729404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524729404</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Odd or Even Number.">
+      <created>1657524751764</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524751764</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Check Leap Year.">
+      <created>1657524767254</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524767254</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Check Prime Number.">
+      <created>1657524806790</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657524806790</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +282,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Swap Program" />
     <MESSAGE value="Even Odd Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Even Odd Program" />
+    <MESSAGE value="Hello Python" />
+    <MESSAGE value="Arithmetical Operations" />
+    <MESSAGE value="Square root" />
+    <MESSAGE value="Area of a Triangle" />
+    <MESSAGE value="Quadratic Equations" />
+    <MESSAGE value="Swapping Two Numbers." />
+    <MESSAGE value="Random Numbers Generator." />
+    <MESSAGE value="Kilometer to Miles." />
+    <MESSAGE value="Celsius to Fahrenheit." />
+    <MESSAGE value="Display Calender" />
+    <MESSAGE value="Positive, Negative or Zero Number." />
+    <MESSAGE value="Odd or Even Number." />
+    <MESSAGE value="Check Leap Year." />
+    <MESSAGE value="Check Prime Number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Check Prime Number." />
   </component>
 </project>
